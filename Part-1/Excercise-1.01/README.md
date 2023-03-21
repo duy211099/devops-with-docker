@@ -1,5 +1,4 @@
 ![Result](exercise-1.01.png)
-
 ---
 
 ```console
